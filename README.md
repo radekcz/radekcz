@@ -1,7 +1,5 @@
 
-Hi, my name is Radek.
-
-I'm open to all interesting projects, so if there is something I can help you with, don't hesitate to contact me.
+Hi, my name is Radek and I'm open to all interesting projects, so if there is something I can help you with, don't hesitate to contact me.
 
 A little about me:
 - Java developer with experience in various projects, responsible for communication with customers, capable of bearing responsibility for technical solutions, and able to lead a team.
